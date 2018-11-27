@@ -1,7 +1,9 @@
 ###############################################################################
 Software accompaniment to:
 
-Three-way clustering of multi-tissue multi-individual gene expression data using constrained tensor decomposition
+Three-way clustering of multi-tissue multi-individual gene expression data using semi-nonnegative tensor decomposition
+
+Annals of Applied Statistics, in press.
 
 Miaoyan Wang, Jonathan Fischer, and Yun S. Song
 University of California, Berkeley
